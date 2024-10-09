@@ -19,6 +19,11 @@ A new  preventative aides drug (triUmpsal) is under test in clinical trials. Con
 
 # Methods
 
+Does this vaccine prevent females fro contractin aids 
+
+$H_O$ :The vaccine does not prevent women from contracting aids   
+$H_A$ : The vaccine is affective in preventing women from contracting aids 
+
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method. Discuss what data manipulations may be needed for example subsetting or other binning procedures and what sort of graphical displays and inferential tools will be used!-->
 
 # Results
